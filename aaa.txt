@@ -1,2 +1,4 @@
-aaaaaaaaaaaaaaaaaaaaaa
-sss
+### プログラムを記述する場合  
+- a
+- b
+- c
